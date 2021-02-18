@@ -1,0 +1,26 @@
+{
+  "name": "101217272_comp3133_assig1",
+  "version": "1.0.0",
+  "description": "comp3133 Full Stack Development II",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljingGBC/comp3133_Assignment01.git"
+  },
+  "keywords": [
+    "graphql",
+    "mongodb",
+    "apollo",
+    "express"
+  ],
+  "author": "Lei Jing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljingGBC/comp3133_Assignment01/issues"
+  },
+  "homepage": "https://github.com/ljingGBC/comp3133_Assignment01#readme"
+}
